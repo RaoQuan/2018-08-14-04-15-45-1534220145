@@ -1,4 +1,4 @@
 // Write your cade below:
-module.exports = function main() {
-  
+function main(x,y) {
+          return x%y;
 };
